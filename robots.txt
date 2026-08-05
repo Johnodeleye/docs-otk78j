@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-yhxgvz.privatetalks.online/sitemap.xml
